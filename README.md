@@ -1,4 +1,4 @@
-# AI_Final_Project
+# AI_Final_Project LRT
 # StatMind AI: AI-Powered Marketing Analytics Agent
 
 Course project for **CSS4007 Artificial Intelligence** (Narxoz University, section CSS4007-ENG-5).
